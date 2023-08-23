@@ -17,6 +17,7 @@ namespace Lab21
             Console.WriteLine("Employee name : " + name);
             Console.WriteLine("Employe age : " + age);
             Console.WriteLine("Employe salary : " + salary);
+            Console.WriteLine();
         }
         public static void Main(string[] args)
         {
